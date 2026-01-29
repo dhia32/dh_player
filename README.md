@@ -42,7 +42,7 @@ Internet connection for IPTV content
 
 Get the latest version from GitHub Releases:
 👉 https://github.com/dhia32/dh_player/releases
-
+telegram https://t.me/dh_player
 📦 Changelog
 🚀 v1.1.0 — Major Features & UX Overhaul
 
